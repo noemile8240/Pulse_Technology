@@ -41,7 +41,7 @@ The analysis was modeled as a relational dataset consisting of four core tables:
 * geo_lookup — country-to-region mapping
 
  An ERD is included in this repository to illustrate table relationships.
- ![ERD](Images/ERD.png)
+ <img src="Images/ERD.png" width="600">
 
 
 🧹 Data Cleaning & Assumptions
