@@ -41,6 +41,8 @@ The analysis was modeled as a relational dataset consisting of four core tables:
 * geo_lookup — country-to-region mapping
 
  An ERD is included in this repository to illustrate table relationships.
+ ![ERD](noemile8240/Pulse_Technology/Images/Loyalty_Analysis.png)
+
 
 🧹 Data Cleaning & Assumptions
 
