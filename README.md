@@ -24,7 +24,7 @@ Leadership requested a data-driven walkthrough of historical performance to answ
 * What do refund rates and AOV reveal about risk and customer behavior?
 
 # Executive Summary
- <img src="Images/Executive_Summary.png" width="800">
+ <img src="Images/Executive_Summary-2.png" width="800">
 
 Revenue surged sharply during the COVID period, peaking in late 2020, followed by normalization at a higher baseline than pre-pandemic levels. Growth slowed through 2022, indicating demand stabilization rather than collapse.
 
