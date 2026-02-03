@@ -75,7 +75,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 
 * Post-COVID revenue stabilized at a higher baseline than pre-pandemic levels.
 
-* Quarterly analysis revealed a gradual deceleration through 2022, consistent with demand normalization.
+* Quarterly analysis revealed a gradual deceleration through 2022, consistent with demand normalization.<br><br>
 
 ###  2. Product Performance
  <img src="Images/Product_Performance_Analysis-2.png" width="600">
@@ -84,7 +84,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 
 * Laptops command the highest Average Order Value.
 
-* The top three products account for the majority of total revenue, indicating revenue concentration risk.
+* The top three products account for the majority of total revenue, indicating revenue concentration risk.<br><br>
 
 ###  3. Loyalty Program Performance
  <img src="Images/Loyalty_Analysis.png" width="600">
@@ -93,7 +93,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 
 * Loyalty revenue proved more stable post-COVID compared to non-member sales.
 
-* AOV differences narrowed over time, suggesting loyalty benefits retention more than basket size.
+* AOV differences narrowed over time, suggesting loyalty benefits retention more than basket size.<br><br>
 
 ###  4. Regional Performance Insights
  <img src="Images/Regional_Analysis.png" width="600">
