@@ -112,7 +112,7 @@ Global demand surged during COVID, with all regions showing a noticeable lift, t
 
 
 ### 4. Refunds & Risk
- <img src="Images/quarterly_growth_Analysis.png" width="600">
+ <img src="Images/refund.png" width="800" >
  
 Refund rates are highest for premium laptop products, indicating higher per-order risk.
 
