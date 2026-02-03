@@ -103,22 +103,17 @@ Global demand surged during COVID, with all regions showing a noticeable lift, t
 
 * APAC demonstrates the highest average order value (~$279), despite contributing a smaller share of total revenue, indicating higher-value purchases but lower order volume.
 * EMEA represents a meaningful secondary market, accounting for ~29% of total sales with relatively stable AOV trends.
-* LATAM remains a smaller growth opportunity, contributing ~6% of total sales with the lowest average order value among regions.
+* LATAM remains a smaller growth opportunity, contributing ~6% of total sales with the lowest average order value among regions.<br><br>
 
 
-
-
-
-
-
-### 4. Refunds & Risk
+### 5. Refunds & Risk
  <img src="Images/refund.png" width="800" >
  
-Refund rates are highest for premium laptop products, indicating higher per-order risk.
+* Refund rates are highest for premium laptop products, indicating higher per-order risk.
 
-High-volume accessories generate more refunds in absolute terms but lower refund rates.
+* High-volume accessories generate more refunds in absolute terms but lower refund rates.
 
-Refund risk is driven by product type rather than order volume alone.
+* Refund risk is driven by product type rather than order volume alone.
 
 # Business Recommendations
 
