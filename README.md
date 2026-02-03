@@ -69,7 +69,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 
 
 ### 1. Revenue Trends & Growth
- <img src="Images/quarterly_growth_Analysis-2.png" width="800">
+ <img src="Images/qrterlygrowth.png" width="800">
 
 * Revenue peaked in Q4 2020 during COVID demand surge.
 
