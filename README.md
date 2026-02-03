@@ -69,7 +69,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 
 
 ### 1. Revenue Trends & Growth
- <img src="Images/quarterly_growth_Analysis.png" width="600">
+ <img src="Images/quarterly_growth_Analysis.png" width="800">
 
 * Revenue peaked in Q4 2020 during COVID demand surge.
 
@@ -78,7 +78,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 * Quarterly analysis revealed a gradual deceleration through 2022, consistent with demand normalization.<br><br>
 
 ###  2. Product Performance
- <img src="Images/Product_Performance_Analysis-2.png" width="600">
+ <img src="Images/Product_Performance_Analysis-2.png" width="800">
  
 * Accessories (e.g., AirPods, monitors) drive order volume.
 
@@ -87,7 +87,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 * The top three products account for the majority of total revenue, indicating revenue concentration risk.<br><br>
 
 ###  3. Loyalty Program Performance
- <img src="Images/Loyalty_Analysis.png" width="600">
+ <img src="Images/Loyalty_Analysis.png" width="800">
  
 * Loyalty members represent a smaller share of customers but show higher repeat purchase behavior.
 
@@ -96,7 +96,7 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 * AOV differences narrowed over time, suggesting loyalty benefits retention more than basket size.<br><br>
 
 ###  4. Regional Performance Insights
- <img src="Images/Regional_Analysis.png" width="600">
+ <img src="Images/Regional_Analysis.png" width="800">
  
 * North America is the primary revenue driver, contributing ~52% of total sales and consistently leading monthly revenue across all periods.
 Global demand surged during COVID, with all regions showing a noticeable lift, though North America experienced the strongest absolute growth.
