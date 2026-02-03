@@ -78,7 +78,8 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 * Quarterly analysis revealed a gradual deceleration through 2022, consistent with demand normalization.
 
 ###  2. Product Performance
- <img src="Images/Product_Performance_Analysis.png" width="600">
+ <img src="Images/Product_Performance_Analysis-2.png" width="600">
+ 
 * Accessories (e.g., AirPods, monitors) drive order volume.
 
 * Laptops command the highest Average Order Value.
@@ -95,9 +96,11 @@ No action was taken on records lacking a reliable source of truth (e.g., zero-do
 * AOV differences narrowed over time, suggesting loyalty benefits retention more than basket size.
 
 ###  4. Regional Performance Insights
- <img src="Images/Regionak_Analysis.png" width="600">
+ <img src="Images/Regional_Analysis.png" width="600">
+ 
 * North America is the primary revenue driver, contributing ~52% of total sales and consistently leading monthly revenue across all periods.
 Global demand surged during COVID, with all regions showing a noticeable lift, though North America experienced the strongest absolute growth.
+
 * APAC demonstrates the highest average order value (~$279), despite contributing a smaller share of total revenue, indicating higher-value purchases but lower order volume.
 * EMEA represents a meaningful secondary market, accounting for ~29% of total sales with relatively stable AOV trends.
 * LATAM remains a smaller growth opportunity, contributing ~6% of total sales with the lowest average order value among regions.
@@ -127,25 +130,16 @@ Refund risk is driven by product type rather than order volume alone.
 
 * Strengthen regional growth strategies outside North America, particularly in EMEA and APAC.
 
-🛠️ Tools & Skills Demonstrated
 
-SQL (BigQuery): data cleaning, aggregation, KPI calculations
+# Repository Contents
 
-Tableau: dashboard design, trend analysis, cohort comparison
+* noemile8240/ Pulse_Technology /sql/ — Data cleaning & analysis queries
 
-Analytics: stakeholder framing, executive storytelling, business recommendations
+* noemile8240/ Pulse_Technology /tableau/ — Dashboard screenshots
 
-Data Quality: issue logging, assumptions, and impact assessment
+* noemile8240/ Pulse_Technology /images/ — ERD and visual assets
 
-📂 Repository Contents
-
-/sql/ — Data cleaning & analysis queries
-
-/tableau/ — Dashboard screenshots
-
-/images/ — ERD and visual assets
-
-README.md — Project documentation
+* noemile8240/ Pulse_Technology README.md — Project documentation
 
 🔗 Tableau Dashboard
 
