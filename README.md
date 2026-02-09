@@ -27,14 +27,10 @@ Leadership requested a **data-driven performance review** to support preparation
 
 ---
 
-
-
 # Executive Summary
-
 -  Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
 - Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.  
 - **Loyalty customers provide more stable repeat revenue**, reinforcing retention-focused strategy over short-term AOV gains.  
-
  <img src="Images/Executive_Summary-2.png" width="800">
 
 ---
@@ -53,6 +49,7 @@ Relational dataset composed of four core tables:
 An ERD illustrating table relationships is included below.
 
  <img src="Images/ERD.png" width="600">
+
 ---
 
 # Data Cleaning & Assumptions
@@ -75,13 +72,13 @@ Records lacking reliable source validation (e.g., zero prices, missing currency,
 
 # Key Insights & Findings
 ### 1. Revenue Trends and Growth
-**A. Pandemic-era demand created a structural revenue step-change**  
+- Pandemic-era demand created a structural revenue step-change**  
 Revenue surged sharply during **2020**, peaking in **Q4 2020**, and later stabilized at a **higher baseline than pre-COVID levels**, indicating lasting revenue growth rather than a temporary spike.
 
-**B. Growth momentum weakened through 2021–2022 despite elevated baseline**  
+- Growth momentum weakened through 2021–2022 despite elevated baseline**  
 Quarterly performance showed **gradual deceleration** through **2021–2022**, signaling transition to stabilization-phase performance.
 
-**C. Rising volatility and late-2022 decline signal emerging contraction risk**  
+- Rising volatility and late-2022 decline signal emerging contraction risk**  
 Order volume dropped sharply by **Q4 2022 (~-47%)**, suggesting softening demand and potential downside risk without new growth drivers.
 
 
@@ -90,55 +87,64 @@ Order volume dropped sharply by **Q4 2022 (~-47%)**, suggesting softening demand
 ---
 
 ###  2. Key Product Performance Insights
-**A. Revenue is concentrated in a small number of high-performing products**  
+- Revenue is concentrated in a small number of high-performing products**  
 The **top three products** generate the majority of total revenue, indicating **revenue concentration risk** and reliance on a narrow group of top-performing products to sustain growth.
 
-**B. Product categories play distinct roles in volume versus value generation**  
+- Product categories play distinct roles in volume versus value generation**  
 Accessories drive **highest order volume**, while laptops produce the **highest average order value (AOV)**, showing a structural split between **traffic drivers** and **revenue maximizers**.
 
-**C. Category mix highlights opportunity for mid-tier expansion**  
+- Category mix highlights opportunity for mid-tier expansion**  
 Heavy reliance on premium and accessory extremes suggests potential to **expand mid-tier offerings** to balance **volume, margin stability, and risk exposure**.
 
  <img src="Images/Product_Performance_Analysis-2.png" width="800">
  
  ---
 
-###  3.Key Loyalty Program Insights
+###  3. Key Loyalty Program Insights
 
-**1. Loyalty members contribute more stable long-term revenue despite a smaller customer base**  
+- Loyalty members contribute more stable long-term revenue despite a smaller customer base**  
 Although representing a **smaller share of total customers**, the loyalty segment shows **more gradual revenue decline following the COVID peak**, indicating stronger **retention stability and lifecycle value**.
 
-**2. Repeat purchase behavior is comparable across loyalty and non-loyalty customers**  
+- Repeat purchase behavior is comparable across loyalty and non-loyalty customers**  
 Customer share analysis shows **similar repeat proportions** between members and non-members, suggesting the program’s primary impact is **revenue consistency and engagement stability**, rather than materially higher repeat frequency.
 
-**3. Converging AOV trends reinforce retention—not basket size—as the core loyalty driver**  
+- Converging AOV trends reinforce retention—not basket size—as the core loyalty driver**  
 The **average order value gap narrows over time** as non-member AOV declines post-COVID, indicating loyalty value is driven by **sustained engagement and revenue resilience**, not increased per-order spend.
 
  <img src="Images/Loyalty_Analysis.png" width="800">
  
+ ---
+  
 ###  4. Key Regional Performance Insights
 
-**A. North America remains the dominant and structurally resilient revenue driver**  
+- North America remains the dominant and structurally resilient revenue driver**  
 North America contributes **~52% of total sales** and leads monthly revenue across all periods, with the **largest absolute surge during COVID** and sustained post-pandemic scale, reinforcing its role as the company’s primary revenue engine.
 
-**B. APAC delivers the highest customer value despite lower overall revenue share**  
+- APAC delivers the highest customer value despite lower overall revenue share**  
 APAC records the **highest average order value (~$279)** while contributing a smaller portion of total sales, indicating a **high-value but lower-volume customer base** with potential for scalable growth.
 
-**C. EMEA provides stable secondary scale while LATAM represents early-stage expansion potential**  
+- EMEA provides stable secondary scale while LATAM represents early-stage expansion potential**  
 EMEA contributes **~29% of total sales** with relatively consistent AOV trends, positioning it as the strongest secondary market, whereas LATAM’s **~6% share and lowest AOV (~$231)** indicate a **developing region with long-term growth opportunity**.
 
  <img src="Images/Regional_Analysis.png" width="800">
  
-
-### 5. Refunds & Risk
- <img src="Images/refund.png" width="800" >
+ ---
  
-* Refund rates are highest for premium laptop products, indicating higher per-order risk.
+### 5. Key Refunds & Risk Insights
 
-* High-volume accessories generate more refunds in absolute terms but lower refund rates.
+- Premium laptops carry the highest per-order refund risk
+ThinkPad and MacBook Air models show the **highest refund rates (~11–12%)**, indicating elevated **per-transaction risk** associated with higher-value products.
 
-* Refund risk is driven by product type rather than order volume alone.
+- High-volume accessories drive refund counts but not refund severity 
+Products such as **AirPods and 27” monitors** generate the **largest number of refunds in absolute terms** while maintaining **moderate refund rates (~5–6%)**, reflecting scale rather than disproportionate risk.
 
+- Refund exposure is driven by product category rather than sales volume alone
+The contrast between **high-rate laptops** and **high-volume accessories** demonstrates that refund risk is primarily **product-type dependent**, highlighting the need for **category-specific quality and return-prevention strategies.**
+
+  <img src="Images/refund.png" width="800" >
+ 
+ ---
+ 
 # Business Recommendations
 
 * Diversify revenue drivers by expanding mid-tier products to reduce reliance on top SKUs.
