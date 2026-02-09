@@ -1,6 +1,6 @@
-# Pulse-Technology-Analysis (2019–2022)
+# Pulse-Technology-Analysis — Sales & Customer Analytics (2019–2022)
 End-to-end **SQL and Tableau business intelligence analysis** evaluating revenue trends, customer behavior, product performance, refunds, and regional growth for a consumer electronics company navigating COVID-era demand shifts.
-# Pulse Technology — Sales & Customer Analytics (2019–2022)
+
 
 # Project Overview
 
