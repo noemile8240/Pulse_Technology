@@ -1,0 +1,135 @@
+# Pulse Technology — Sales & Customer Analytics (2019–2022)
+
+End-to-end **SQL and Tableau business intelligence analysis** evaluating revenue trends, customer behavior, product performance, refunds, and regional growth for a consumer electronics company navigating COVID-era demand shifts.
+
+---
+
+## Business Objective
+
+Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:
+
+- Revenue trends before, during, and after COVID  
+- Key growth drivers across products and regions  
+- Loyalty program performance and retention behavior  
+- Refund risk and customer value indicators  
+
+---
+
+## Tools & Methods
+
+- **SQL:** data cleaning, joins, aggregations, KPI analysis  
+- **Tableau:** executive dashboard design and visualization  
+- **Data Modeling:** relational schema with ERD validation  
+- **Business Analysis:** revenue trends, AOV, loyalty impact, refund risk  
+
+---
+
+## Executive Summary
+
+**Key Takeaways**
+
+- Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
+- Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.  
+- **Loyalty customers provide more stable repeat revenue**, reinforcing retention-focused strategy over short-term AOV gains.  
+
+<img src="Images/Executive_Summary-2.png" width="800">
+
+---
+
+## Data Structure
+
+Relational dataset composed of four core tables:
+
+- `orders` — transactional purchases  
+- `customers` — attributes and loyalty status  
+- `order_status` — fulfillment and refund lifecycle  
+- `geo_lookup` — country-to-region mapping  
+
+An ERD illustrating table relationships is included below.
+
+<img src="Images/ERD.png" width="600">
+
+---
+
+## Data Cleaning & Assumptions
+
+Data quality issues were reviewed prior to analysis.  
+Only **low-risk, clearly resolvable issues** were corrected.
+
+**Actions included:**
+
+- Standardizing inconsistent product names  
+- Normalizing date formats  
+- Replacing blank marketing channels with “Unknown”  
+- Correcting region values using country codes  
+
+Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
+
+---
+
+## Key Insights
+
+### 1. Revenue Trends
+- COVID-era demand drove a **Q4 2020 peak**, followed by stabilization above pre-COVID levels.  
+- 2021–2022 shows **normalization, not decline**, indicating sustained demand.
+
+<img src="Images/qrterlygrowth.png" width="800">
+
+---
+
+### 2. Product Performance
+- Accessories drive **order volume**, while laptops drive **highest AOV**.  
+- Top three products generate **majority revenue**, signaling concentration risk.
+
+<img src="Images/Product_Performance_Analysis-2.png" width="800">
+
+---
+
+### 3. Loyalty Program Behavior
+- Loyalty members show **stronger repeat purchasing** and **more stable post-COVID revenue**.  
+- Retention impact outweighs short-term AOV lift.
+
+<img src="Images/Loyalty_Analysis.png" width="800">
+
+---
+
+### 4. Regional Performance
+- **North America (~52%)** is the primary revenue driver.  
+- **APAC** shows highest AOV (~$279) despite lower volume.  
+- **EMEA (~29%)** provides stable secondary demand.  
+- **LATAM (~6%)** represents emerging growth opportunity.
+
+<img src="Images/Regional_Analysis.png" width="800">
+
+---
+
+### 5. Refund Risk
+- Premium laptops carry **highest refund risk per order**.  
+- Accessories generate **higher volume refunds but lower rates**.  
+- Refund exposure is **product-driven**, not purely volume-driven.
+
+<img src="Images/refund.png" width="800">
+
+---
+
+## Business Recommendations
+
+- Diversify mid-tier product portfolio to **reduce revenue concentration risk**.  
+- Continue investing in **loyalty retention strategy** over short-term AOV gains.  
+- Monitor **premium product refund exposure** to protect margins.  
+- Expand **regional growth initiatives** in EMEA and APAC.
+
+---
+
+## Repository Structure
+
+- `/sql/` — cleaning and analytical queries  
+- `/tableau/` — dashboard assets  
+- `/images/` — ERD and visuals  
+- `README.md` — full documentation  
+
+---
+
+## Tableau Dashboard
+
+👉 **[View Interactive Dashboard on Tableau Public](LINK HERE)**
