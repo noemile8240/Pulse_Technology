@@ -5,22 +5,26 @@ End-to-end **SQL and Tableau business intelligence analysis** evaluating revenue
 # Business Objective
 
 Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:
+ Revenue trends before, during, and after COVID  
+- Key growth drivers across products and regions  
+- Loyalty program performance and retention behavior  
+- Refund risk and customer value indicators  
 
-This project analyzes Pulse Technology’s sales performance from 2019–2022, with a focus on revenue trends, product performance, loyalty program impact, refunds, and regional demand. The analysis was conducted to support leadership preparation for a company-wide town hall in 2023.
+- Revenue trends before, during, and after COVID  
+- Key growth drivers across products and regions  
+- Loyalty program performance and retention behavior  
+- Refund risk and customer value indicators  
 
-# Stakeholder Request
+---
+## Tools & Methods
 
-Leadership requested a data-driven walkthrough of historical performance to answer:
+- **SQL:** data cleaning, joins, aggregations, KPI analysis  
+- **Tableau:** executive dashboard design and visualization  
+- **Data Modeling:** relational schema with ERD validation  
+- **Business Analysis:** revenue trends, AOV, loyalty impact, refund risk  
 
-* How did overall sales trend before, during, and after COVID?
+---
 
-* What were the key growth patterns over time?
-
-* How is the loyalty program performing?
-
-* Which products and regions drive the most revenue?
-
-* What do refund rates and AOV reveal about risk and customer behavior?
 
 # Executive Summary
  <img src="Images/Executive_Summary-2.png" width="800">
