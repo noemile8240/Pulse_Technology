@@ -27,27 +27,29 @@ Leadership requested a **data-driven performance review** to support preparation
 
 
 # Executive Summary
+
+-  Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
+- Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.  
+- **Loyalty customers provide more stable repeat revenue**, reinforcing retention-focused strategy over short-term AOV gains.  
+
  <img src="Images/Executive_Summary-2.png" width="800">
 
-Revenue surged sharply during the COVID period, peaking in late 2020, followed by normalization at a higher baseline than pre-pandemic levels. Growth slowed through 2022, indicating demand stabilization rather than collapse.
+---
 
-Revenue is highly concentrated in a small set of high-performing products, while loyalty customers contribute more stable revenue and higher repeat purchase behavior over time. Regional performance shows North America as the primary revenue driver, with meaningful contributions from EMEA and APAC.
 
 # Data Structure
 
-The analysis was modeled as a relational dataset consisting of four core tables:
+Relational dataset composed of four core tables:
 
-* orders — transactional purchase data
+- `orders` — transactional purchases  
+- `customers` — attributes and loyalty status  
+- `order_status` — fulfillment and refund lifecycle  
+- `geo_lookup` — country-to-region mapping  
 
-* customers — customer attributes and loyalty status
 
-* order_status — shipping, delivery, and refund timestamps
-
-* geo_lookup — country-to-region mapping
-
- An ERD is included in this repository to illustrate table relationships.
+An ERD illustrating table relationships is included below.
  <img src="Images/ERD.png" width="600">
-
+---
 
 # Data Cleaning & Assumptions
 
