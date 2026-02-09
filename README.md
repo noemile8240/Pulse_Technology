@@ -2,9 +2,9 @@
 End-to-end **SQL and Tableau business intelligence analysis** evaluating revenue trends, customer behavior, product performance, refunds, and regional growth for a consumer electronics company navigating COVID-era demand shifts.
 
 
-# Project Overview
+# Business Objective
 
-Pulse Technology is a fictitious consumer electronics company specializing in monitors, laptops, headphones, and accessories. Launched shortly before the COVID-19 pandemic, the company experienced rapid demand shifts, changing customer behavior, and evolving revenue patterns.
+Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:
 
 This project analyzes Pulse Technology’s sales performance from 2019–2022, with a focus on revenue trends, product performance, loyalty program impact, refunds, and regional demand. The analysis was conducted to support leadership preparation for a company-wide town hall in 2023.
 
