@@ -1,4 +1,4 @@
-# Pulse-Technology-Analysis
+# Pulse-Technology-Analysis (2019–2022)
 SQL and Tableau analytics project analyzing revenue trends, product performance, loyalty behavior, refunds, and regional growth for a consumer electronics company (2019–2022).
 
 # Pulse Technology — Sales & Customer Analytics (2019–2022)
