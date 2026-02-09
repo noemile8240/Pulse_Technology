@@ -28,9 +28,9 @@ Leadership requested a **data-driven performance review** to support preparation
 ---
 
 # Executive Summary
--  Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
-- Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.  
-- **Loyalty customers provide more stable repeat revenue**, reinforcing retention-focused strategy over short-term AOV gains.  
+- Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
+- Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.
+- **Loyalty customers contribute more stable long-term revenue despite similar repeat rates**, reinforcing a retention-focused strategy over short-term AOV expansion.
  <img src="Images/Executive_Summary-2.png" width="800">
 
 ---
@@ -72,13 +72,13 @@ Records lacking reliable source validation (e.g., zero prices, missing currency,
 
 # Key Insights & Findings
 ### 1. Revenue Trends and Growth
-- Pandemic-era demand created a structural revenue step-change**  
+- **Pandemic-era demand created a structural revenue step-change**  
 Revenue surged sharply during **2020**, peaking in **Q4 2020**, and later stabilized at a **higher baseline than pre-COVID levels**, indicating lasting revenue growth rather than a temporary spike.
 
-- Growth momentum weakened through 2021–2022 despite elevated baseline**  
+- **Growth momentum weakened through 2021–2022 despite elevated baseline**  
 Quarterly performance showed **gradual deceleration** through **2021–2022**, signaling transition to stabilization-phase performance.
 
-- Rising volatility and late-2022 decline signal emerging contraction risk**  
+- **Rising volatility and late-2022 decline signal emerging contraction risk**  
 Order volume dropped sharply by **Q4 2022 (~-47%)**, suggesting softening demand and potential downside risk without new growth drivers.
 
 
@@ -147,14 +147,20 @@ The contrast between **high-rate laptops** and **high-volume accessories** demon
  
 # Business Recommendations
 
-* Diversify revenue drivers by expanding mid-tier products to reduce reliance on top SKUs.
+- **Diversify revenue drivers by expanding mid-tier product offerings**  
+  Reducing reliance on a small group of **top-performing products** can improve **revenue resilience, margin stability, and long-term growth balance**.
 
-* Continue investing in the loyalty program, focusing on retention and lifecycle value rather than short-term AOV lift.
+- **Continue investing in the loyalty program with a retention-first strategy**  
+  Prioritize **customer lifecycle value and revenue stability** rather than short-term AOV expansion to strengthen sustainable performance.
 
-* Monitor premium product refunds to reduce high-value loss exposure.
+- **Reduce high-value refund exposure in premium product categories**  
+  Focus on **quality control, return-prevention initiatives, and post-purchase support** for premium laptops where per-order refund risk is highest.
 
-* Strengthen regional growth strategies outside North America, particularly in EMEA and APAC.
-
+- **Accelerate regional growth outside North America**  
+  Expand targeted strategies in **EMEA and APAC** to reduce geographic concentration risk and unlock **scalable international revenue opportunities**.
+ 
+ ---
+ 
 
 # Repository Contents
 
