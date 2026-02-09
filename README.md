@@ -28,6 +28,7 @@ Leadership requested a **data-driven performance review** to support preparation
 ---
 
 
+
 # Executive Summary
 
 -  Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
@@ -73,36 +74,34 @@ Records lacking reliable source validation (e.g., zero prices, missing currency,
 ---
 
 # Key Insights & Findings
-
-### Revenue Trends
-
-**1. Pandemic-era demand created a structural revenue step-change**  
+### 1. Revenue Trends and Growth
+**A. Pandemic-era demand created a structural revenue step-change**  
 Revenue surged sharply during **2020**, peaking in **Q4 2020**, and later stabilized at a **higher baseline than pre-COVID levels**, indicating lasting revenue growth rather than a temporary spike.
 
-**2. Growth momentum weakened through 2021–2022 despite elevated baseline**  
+**B. Growth momentum weakened through 2021–2022 despite elevated baseline**  
 Quarterly performance showed **gradual deceleration** through **2021–2022**, signaling transition to stabilization-phase performance.
 
-**3. Rising volatility and late-2022 decline signal emerging contraction risk**  
+**C. Rising volatility and late-2022 decline signal emerging contraction risk**  
 Order volume dropped sharply by **Q4 2022 (~-47%)**, suggesting softening demand and potential downside risk without new growth drivers.
 
 
  <img src="Images/qrterlygrowth.png" width="800">
 
+---
 
-###  2. Product Performance
-### Key Product Performance Insights
-
-**1. Revenue is concentrated in a small number of high-performing products**  
+###  2. Key Product Performance Insights
+**A. Revenue is concentrated in a small number of high-performing products**  
 The **top three products** generate the majority of total revenue, indicating **revenue concentration risk** and reliance on a narrow group of top-performing products to sustain growth.
 
-**2. Product categories play distinct roles in volume versus value generation**  
+**B. Product categories play distinct roles in volume versus value generation**  
 Accessories drive **highest order volume**, while laptops produce the **highest average order value (AOV)**, showing a structural split between **traffic drivers** and **revenue maximizers**.
 
-**3. Category mix highlights opportunity for mid-tier expansion**  
+**C. Category mix highlights opportunity for mid-tier expansion**  
 Heavy reliance on premium and accessory extremes suggests potential to **expand mid-tier offerings** to balance **volume, margin stability, and risk exposure**.
 
  <img src="Images/Product_Performance_Analysis-2.png" width="800">
  
+ ---
 
 ###  3.Key Loyalty Program Insights
 
@@ -117,16 +116,19 @@ The **average order value gap narrows over time** as non-member AOV declines pos
 
  <img src="Images/Loyalty_Analysis.png" width="800">
  
-###  4. Regional Performance Insights
+###  4. Key Regional Performance Insights
+
+**A. North America remains the dominant and structurally resilient revenue driver**  
+North America contributes **~52% of total sales** and leads monthly revenue across all periods, with the **largest absolute surge during COVID** and sustained post-pandemic scale, reinforcing its role as the company’s primary revenue engine.
+
+**B. APAC delivers the highest customer value despite lower overall revenue share**  
+APAC records the **highest average order value (~$279)** while contributing a smaller portion of total sales, indicating a **high-value but lower-volume customer base** with potential for scalable growth.
+
+**C. EMEA provides stable secondary scale while LATAM represents early-stage expansion potential**  
+EMEA contributes **~29% of total sales** with relatively consistent AOV trends, positioning it as the strongest secondary market, whereas LATAM’s **~6% share and lowest AOV (~$231)** indicate a **developing region with long-term growth opportunity**.
+
  <img src="Images/Regional_Analysis.png" width="800">
  
-* North America is the primary revenue driver, contributing ~52% of total sales and consistently leading monthly revenue across all periods.
-Global demand surged during COVID, with all regions showing a noticeable lift, though North America experienced the strongest absolute growth.
-
-* APAC demonstrates the highest average order value (~$279), despite contributing a smaller share of total revenue, indicating higher-value purchases but lower order volume.
-* EMEA represents a meaningful secondary market, accounting for ~29% of total sales with relatively stable AOV trends.
-* LATAM remains a smaller growth opportunity, contributing ~6% of total sales with the lowest average order value among regions.<br><br>
-
 
 ### 5. Refunds & Risk
  <img src="Images/refund.png" width="800" >
