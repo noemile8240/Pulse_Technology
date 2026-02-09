@@ -1,6 +1,8 @@
 # Pulse-Technology-Analysis — Sales & Customer Analytics (2019–2022)
+
 End-to-end **SQL and Tableau business intelligence analysis** evaluating revenue trends, customer behavior, product performance, refunds, and regional growth for a consumer electronics company navigating COVID-era demand shifts.
 
+**Revenue surged during the COVID period and stabilized at a higher long-term baseline, but rising volatility and declining late-2022 order volume signal emerging demand contraction without new growth drivers.**
 
 # Business Objective
 
@@ -48,58 +50,73 @@ Relational dataset composed of four core tables:
 
 
 An ERD illustrating table relationships is included below.
+
  <img src="Images/ERD.png" width="600">
 ---
 
 # Data Cleaning & Assumptions
 
-Data quality issues were reviewed and logged prior to analysis. Only issues with a clear resolution and minimal business risk were addressed.
+Data quality issues were reviewed prior to analysis.  
+Only **low-risk, clearly resolvable issues** were corrected.
 
-Actions taken included:
+**Actions included:**
 
-* Standardizing inconsistent product naming
+- Standardizing inconsistent product names  
+- Normalizing date formats  
+- Replacing blank marketing channels with “Unknown”  
+- Correcting region values using country codes  
 
-* Normalizing date formats
-
-* Replacing blank marketing channels with “Unknown”
-
-* Correcting invalid or missing region values where country codes were known
-
-No action was taken on records lacking a reliable source of truth (e.g., zero-dollar prices, missing currencies, or anomalous timestamps) due to their minimal impact on aggregate results.
+Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
 
 ***Full issue log and resolutions are documented in the repository.***
 
+---
 
 # Key Insights & Findings
 
+### Revenue Trends
 
-### 1. Revenue Trends & Growth
+**1. Pandemic-era demand created a structural revenue step-change**  
+Revenue surged sharply during **2020**, peaking in **Q4 2020**, and later stabilized at a **higher baseline than pre-COVID levels**, indicating lasting revenue growth rather than a temporary spike.
+
+**2. Growth momentum weakened through 2021–2022 despite elevated baseline**  
+Quarterly performance showed **gradual deceleration** through **2021–2022**, signaling transition to stabilization-phase performance.
+
+**3. Rising volatility and late-2022 decline signal emerging contraction risk**  
+Order volume dropped sharply by **Q4 2022 (~-47%)**, suggesting softening demand and potential downside risk without new growth drivers.
+
+
  <img src="Images/qrterlygrowth.png" width="800">
 
-* Revenue peaked in Q4 2020 during COVID demand surge.
-
-* Post-COVID revenue stabilized at a higher baseline than pre-pandemic levels.
-
-* Quarterly analysis revealed a gradual deceleration through 2022, consistent with demand normalization.<br><br>
 
 ###  2. Product Performance
+### Key Product Performance Insights
+
+**1. Revenue is concentrated in a small number of high-performing products**  
+The **top three products** generate the majority of total revenue, indicating **revenue concentration risk** and reliance on a narrow group of top-performing products to sustain growth.
+
+**2. Product categories play distinct roles in volume versus value generation**  
+Accessories drive **highest order volume**, while laptops produce the **highest average order value (AOV)**, showing a structural split between **traffic drivers** and **revenue maximizers**.
+
+**3. Category mix highlights opportunity for mid-tier expansion**  
+Heavy reliance on premium and accessory extremes suggests potential to **expand mid-tier offerings** to balance **volume, margin stability, and risk exposure**.
+
  <img src="Images/Product_Performance_Analysis-2.png" width="800">
  
-* Accessories (e.g., AirPods, monitors) drive order volume.
 
-* Laptops command the highest Average Order Value.
+###  3.Key Loyalty Program Insights
 
-* The top three products account for the majority of total revenue, indicating revenue concentration risk.<br><br>
+**1. Loyalty members contribute more stable long-term revenue despite a smaller customer base**  
+Although representing a **smaller share of total customers**, the loyalty segment shows **more gradual revenue decline following the COVID peak**, indicating stronger **retention stability and lifecycle value**.
 
-###  3. Loyalty Program Performance
+**2. Repeat purchase behavior is comparable across loyalty and non-loyalty customers**  
+Customer share analysis shows **similar repeat proportions** between members and non-members, suggesting the program’s primary impact is **revenue consistency and engagement stability**, rather than materially higher repeat frequency.
+
+**3. Converging AOV trends reinforce retention—not basket size—as the core loyalty driver**  
+The **average order value gap narrows over time** as non-member AOV declines post-COVID, indicating loyalty value is driven by **sustained engagement and revenue resilience**, not increased per-order spend.
+
  <img src="Images/Loyalty_Analysis.png" width="800">
  
-* Loyalty members represent a smaller share of customers but show higher repeat purchase behavior.
-
-* Loyalty revenue proved more stable post-COVID compared to non-member sales.
-
-* AOV differences narrowed over time, suggesting loyalty benefits retention more than basket size.<br><br>
-
 ###  4. Regional Performance Insights
  <img src="Images/Regional_Analysis.png" width="800">
  
