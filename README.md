@@ -172,7 +172,7 @@ The contrast between high-rate laptops and high-volume accessories demonstrates 
 
 * noemile8240/ Pulse_Technology README.md — Project documentation
     
-* noemile8240/ Pulse_Technology /sql/ — Data cleaning & analysis queries
+* [noemile8240/ Pulse_Technology /sql/ — Data cleaning & analysis queries](noemile8240/Pulse_Technology/sql)
 
 🔗 Tableau Dashboard
 
