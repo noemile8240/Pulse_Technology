@@ -166,7 +166,7 @@ The contrast between high-rate laptops and high-volume accessories demonstrates 
 
 # Repository Contents
 
-* [noemile8240/ Pulse_Technology /EXCEL Docs/ — Pulse Raw data file and Issue Log](EXCEL)
+* [noemile8240/ Pulse_Technology /EXCEL Docs/ — Pulse Raw data file and Issue Log](Excel_Files)
   
 * [noemile8240/ Pulse_Technology /images/ — Dashboard screenshots and visua assets](Images)
 
