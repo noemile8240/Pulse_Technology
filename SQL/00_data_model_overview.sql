@@ -3,8 +3,21 @@
 -- Folder: sql/data_model
 -- File: 00_data_model_overview.sql
 -- Tool: BigQuery SQL
--- Purpose: Validate schema, keys, and join coverage.
+-- Purpose: Create schema from raw CSV file and validate data
 -- =====================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -- 1) Row counts
 SELECT 'orders' AS table_name, COUNT(*) AS row_count
