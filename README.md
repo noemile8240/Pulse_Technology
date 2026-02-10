@@ -168,9 +168,9 @@ The contrast between high-rate laptops and high-volume accessories demonstrates 
 
 * noemile8240/ Pulse_Technology /sql/ — Data cleaning & analysis queries
 
-* noemile8240/ Pulse_Technology /tableau/ — Dashboard screenshots
+* noemile8240/ Pulse_Technology /images/ — Dashboard screenshots and visua assets
 
-* noemile8240/ Pulse_Technology /images/ — ERD and visual assets
+* noemile8240/ Pulse_Technology /documents/ — Issue Log
 
 * noemile8240/ Pulse_Technology README.md — Project documentation
 
