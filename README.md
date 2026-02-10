@@ -168,12 +168,12 @@ The contrast between high-rate laptops and high-volume accessories demonstrates 
 
 * [noemile8240/ Pulse_Technology /EXCEL Docs/ — Pulse Raw data file and Issue Log](Excel_Files)
   
-* [noemile8240/ Pulse_Technology /images/ — Dashboard screenshots and visual assets](Images)
+* [noemile8240/ Pulse_Technology /images/ — Graphs and visual assets](Images)
 
 * [noemile8240/ Pulse_Technology README.md — Project documentation](README.md)
     
 * [noemile8240/ Pulse_Technology /sql/ — Data cleaning & analysis queries](SQL)
 
-🔗 Tableau Dashboard
+
 
 
