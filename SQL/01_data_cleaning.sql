@@ -6,44 +6,6 @@
 -- Purpose: Standardize fields + create cleaned analytical views.
 -- NOTE: Views are safe (no destructive edits).
 
-/* ============================================================
-TABLE 1: ORDERS (creating table AS IS from raw CSV file
-============================================================
-   - Creates one row per order line from the raw dataset (distinct rows)
-   - Preserves all observed values (including 0 prices or NULL currency)
-   - Provides the main “fact” table for revenue/product/platform analysis
-   ============================================================ */
-CREATE OR REPLACE TABLE `pulse-486423.pulse_tech.orders` AS
-SELECT DISTINCT
-  order_id,
-  CAST(user_id AS STRING) AS customer_id,
-  purchase_ts,
-  product_id,
-  product_name,
-  currency,
-  SAFE_CAST(local_price AS FLOAT64) AS local_price,
-  SAFE_CAST(usd_price AS FLOAT64)   AS usd_price,
-  purchase_platform
-FROM `pulse-486423.pulse_tech.pulse_raw`
-WHERE order_id IS NOT NULL;
-
-/* ============================================================
-Sanity check for orders
-   Goal:
-   - Confirm table populated and core fields look reasonable
-   - Quantify potential data quality issues for documentation (but do not filter)
-============================================================ */
-SELECT
-  COUNT(*) AS orders_rows,
-  COUNT(DISTINCT order_id) AS distinct_orders,
-  COUNTIF(currency IS NULL OR TRIM(currency) = '') AS currency_missing,
-  COUNTIF(usd_price IS NULL) AS usd_price_null,
-  COUNTIF(usd_price = 0) AS usd_price_zero,
-  COUNTIF(local_price IS NULL) AS local_price_null,
-  COUNTIF(local_price = 0) AS local_price_zero,
-  MIN(usd_price) AS min_usd_price,
-  MAX(usd_price) AS max_usd_price
-FROM `pulse-486423.pulse_tech.orders`;
 
 
 
