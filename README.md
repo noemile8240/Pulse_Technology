@@ -6,7 +6,7 @@ End-to-end **SQL and Tableau data analysis** evaluating revenue trends, customer
 
 # Business Objective
 
-Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:
+Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:  
  Revenue trends before, during, and after COVID  
 - Key growth drivers across products and regions  
 - Loyalty program performance and retention behavior  
