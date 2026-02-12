@@ -48,7 +48,7 @@ Relational dataset composed of four core tables:
 
 An ERD illustrating table relationships is included below.
 
- <img src="Images/ERD.png" width="600">
+ <img src="04_visual_assets/images/ERD.png" width="600">
 
 ---
 
@@ -82,7 +82,7 @@ Quarterly performance showed gradual deceleration through 2021–2022, signaling
 Order volume dropped sharply by Q4 2022 (~-47%), suggesting softening demand and potential downside risk without new growth drivers.
 
 
- <img src="Images/qrterlygrowth.png" width="800">
+ <img src="04_visual_assets/images/qrterlygrowth.png" width="800">
 
 ---
 
@@ -96,7 +96,7 @@ Accessories drive highest order volume, while laptops produce the highest averag
 - **Category mix highlights opportunity for mid-tier expansion**  
 Heavy reliance on premium and accessory extremes suggests potential to expand mid-tier offerings to balance volume, margin stability, and risk exposure.
 
- <img src="Images/Product_Performance_Analysis-2.png" width="800">
+ <img src="04_visual_assets/images/Product_Performance_Analysis-2.png" width="800">
  
  ---
 
@@ -111,7 +111,7 @@ Customer share analysis shows similar repeat proportions between members and non
 - **Converging AOV trends reinforce retention—not basket size—as the core loyalty driver**  
 The average order value gap narrows over time as non-member AOV declines post-COVID, indicating loyalty value is driven by sustained engagement and revenue resilience, not increased per-order spend.
 
- <img src="Images/Loyalty_Analysis.png" width="800">
+ <img src="04_visual_assets/images/Loyalty_Analysis.png" width="800">
  
  ---
   
@@ -126,7 +126,7 @@ APAC records the highest average order value (~$279) while contributing a smalle
 - **EMEA provides stable secondary scale while LATAM represents early-stage expansion potential**  
 EMEA contributes ~29% of total sales with relatively consistent AOV trends, positioning it as the strongest secondary market, whereas LATAM’s 6% share and lowest AOV ($231) indicate a developing region with long-term growth opportunity.
 
- <img src="Images/Regional_Analysis.png" width="800">
+ <img src="04_visual_assets/images/Regional_Analysis.png" width="800">
  
  ---
  
@@ -141,7 +141,7 @@ Products such as AirPods and 27” monitors generate the largest number of refun
 - **Refund exposure is driven by product category rather than sales volume alone**
 The contrast between high-rate laptops and high-volume accessories demonstrates that refund risk is primarily product-type dependent, highlighting the need for category-specific quality and return-prevention strategies.
 
-  <img src="Images/refund.png" width="800" >
+  <img src="04_visual_assets/images/refund.png" width="800" >
  
  ---
  
