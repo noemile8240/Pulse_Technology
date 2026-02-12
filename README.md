@@ -31,7 +31,7 @@ Leadership requested a **data-driven performance review** to support preparation
 - Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
 - Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.
 - **Loyalty customers contribute more stable long-term revenue despite similar repeat rates**, reinforcing a retention-focused strategy over short-term AOV expansion.
- <img src="Images/Executive_Summary-2.png" width="800">
+ <img src="04_visual_assets/images/Executive_Summary-2.png" width="800">
 
 ---
 
