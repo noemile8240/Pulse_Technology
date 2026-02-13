@@ -48,7 +48,7 @@ Relational dataset composed of four core tables:
 
 An ERD illustrating table relationships is included below.
 
- <img src="04_visual_assets/images/ERD.png" width="600">
+ <img src="04_visual_assets/images/ERD.png" width="800">
 
 ---
 
