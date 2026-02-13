@@ -15,7 +15,9 @@ Leadership requested a **data-driven performance review** to support preparation
 - Revenue trends before, during, and after COVID  
 - Key growth drivers across products and regions  
 - Loyalty program performance and retention behavior  
-- Refund risk and customer value indicators  
+- Refund risk and customer value indicators
+  
+***Sanitized stakeholder request documentation is included to demonstrate traceability from business question to analytical deliverables.***
 
 ---
 ## Tools & Methods
