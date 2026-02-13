@@ -1,4 +1,4 @@
-#Business Recommendations
+# Business Recommendations
 Strategic Focus:
 Revenue remains structurally elevated post-COVID but shows rising volatility and softening order momentum, requiring diversification of revenue drivers, stronger retention economics, and reduced refund and regional concentration risk.
 
