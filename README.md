@@ -7,9 +7,8 @@ This analysis uses sales, customer, and operational data to identify key perform
 Key Metrics: Total Sales, Orders, AOV, Refund Rate, Ship & Delivery Time
 Key Dimensions: Time, Geography, Product, Customer
 
+# Executive Summary
 Pulse Technology – Sales & Customer Analytics (2019–2022)
-Executive Summary
-
 
 Key findings:
 
