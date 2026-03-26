@@ -20,7 +20,9 @@ Delivery times varied across regions, impacting customer experience and operatio
 This analysis highlights opportunities to improve operational efficiency, reduce refunds, and better leverage customer segmentation to drive sustainable growth.
 
 Data Structure (ERD)
-<img src="INSERT_ERD_IMAGE_LINK_HERE" width="650"/>
+ <img src="04_visual_assets/images/ERD.png" width="650">
+
+
 Project Background
 
 Pulse Technology is a fictional consumer electronics company operating between 2019–2022. The business sells products across multiple regions and channels, focusing on customer acquisition, order fulfillment, and retention.
