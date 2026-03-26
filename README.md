@@ -10,7 +10,7 @@ Key Dimensions: Time, Geography, Product, Customer
 # Executive Summary
 Pulse Technology – Sales & Customer Analytics (2019–2022)
 
-Key findings:
+## Key findings:
 
 Revenue growth was driven primarily by a small subset of high-performing products
 Refund rates increased disproportionately in certain regions, indicating potential operational or product issues
