@@ -1,3 +1,121 @@
+Pulse Technology – Sales & Customer Analytics (2019–2022)
+Executive Summary
+
+Pulse Technology is a consumer electronics company analyzed to evaluate revenue trends, customer behavior, and operational performance from 2019–2022.
+
+Key findings:
+
+Revenue growth was driven primarily by a small subset of high-performing products
+Refund rates increased disproportionately in certain regions, indicating potential operational or product issues
+Loyalty program customers demonstrated stronger retention but did not significantly increase average order value
+Delivery times varied across regions, impacting customer experience and operational consistency
+
+This analysis highlights opportunities to improve operational efficiency, reduce refunds, and better leverage customer segmentation to drive sustainable growth.
+
+Data Structure (ERD)
+<img src="INSERT_ERD_IMAGE_LINK_HERE" width="650"/>
+Project Background
+
+Pulse Technology is a fictional consumer electronics company operating between 2019–2022. The business sells products across multiple regions and channels, focusing on customer acquisition, order fulfillment, and retention.
+
+The objective of this analysis is to assess sales performance, customer behavior, and operational efficiency to identify actionable opportunities for growth and improvement.
+
+Key Metrics:
+
+Total Sales ($)
+Number of Orders
+Average Order Value (AOV)
+Refund Rate
+Time to Ship / Time to Deliver
+
+Key Dimensions:
+
+Time (Year, Quarter, Month)
+Geography (Region, Country)
+Product (Category, Brand)
+Customer (Loyalty Program, Acquisition Channel)
+Insights Deep-Dive
+Revenue Trends
+Revenue growth was concentrated among a small group of top-performing products, indicating reliance on limited product drivers
+Seasonal spikes were observed during key promotional periods, suggesting strong campaign-driven demand
+<img src="INSERT_REVENUE_CHART_LINK" width="650"/>
+Customer Behavior
+Customers enrolled in the loyalty program demonstrated higher repeat purchase rates
+Acquisition channels showed varying effectiveness, with some channels driving higher-quality customers than others
+<img src="INSERT_CUSTOMER_CHART_LINK" width="650"/>
+Operational Performance
+Delivery times varied significantly by region, indicating inconsistencies in logistics and fulfillment processes
+Refund rates were disproportionately higher in specific product categories and regions, signaling potential product or service issues
+<img src="INSERT_OPERATIONS_CHART_LINK" width="650"/>
+Recommendations
+Product & Sales Team
+Expand and prioritize high-performing product lines to drive continued revenue growth
+Reevaluate pricing and positioning strategies for underperforming products
+Operations Team
+Investigate regions with longer delivery times to identify bottlenecks in fulfillment
+Implement process improvements to standardize shipping performance across regions
+Customer Experience Team
+Analyze root causes of high refund rates and address product quality or expectation gaps
+Improve product descriptions and customer communication to reduce returns
+Marketing Team
+Leverage loyalty program insights to strengthen retention strategies
+Optimize acquisition channels based on customer lifetime value and repeat purchase behavior
+Assumptions & Caveats
+Refund data includes dates outside the primary analysis period (2019–2022), which may impact trend interpretation
+Data is assumed to be complete and representative of all transactions
+Regional inconsistencies may reflect reporting delays or data quality limitations rather than true performance differences
+Repository Contents
+/SQL → Data cleaning, transformation, and analysis queries
+/Images → Visualizations used in insights and reporting
+/Data → Raw and processed datasets
+/Docs → Supporting documentation and notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Pulse-Technology-Analysis — Sales & Customer Analytics (2019–2022)
 
 End-to-end **SQL and Tableau data analysis** evaluating revenue trends, customer behavior, product performance, refunds, and regional growth for a consumer electronics company navigating COVID-era demand shifts.
