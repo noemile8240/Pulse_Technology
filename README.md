@@ -1,6 +1,12 @@
 # Pulse Technology Background
 
-Pulse Technology, founded in 2018, is a global consumer electronics company offering high-tech products and accessories. With growing volumes of customer, order, and geographic data, the company is leveraging analytics to uncover insights that drive operational improvements and support strategic growth in a competitive market.
+Pulse Technology, founded in 2018, is a global consumer electronics company selling high-tech products across multiple regions and channels, with a focus on revenue growth, customer retention, and operational efficiency.
+
+This analysis uses sales, customer, and operational data to identify key performance drivers and uncover opportunities to improve revenue, reduce refunds, and enhance customer experience.
+
+Key Metrics: Total Sales, Orders, AOV, Refund Rate, Ship & Delivery Time
+Key Dimensions: Time, Geography, Product, Customer
+
 Pulse Technology – Sales & Customer Analytics (2019–2022)
 Executive Summary
 
