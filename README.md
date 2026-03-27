@@ -19,6 +19,7 @@ Key Dimensions: Time, Geography, Product, Customer
 - Refund rates increased disproportionately in certain regions, indicating potential operational or product issues.
 - Loyalty program customers demonstrated stronger retention but did not significantly increase average order value.
 - Delivery times varied across regions, impacting customer experience and operational consistency.
+- Revenue surged during the COVID period and stabilized at a higher long-term baseline, but rising volatility and declining late-2022 order volume signal emerging demand contraction without new growth drivers.
 
 This analysis highlights opportunities to improve operational efficiency, reduce refunds, and better leverage customer segmentation to drive sustainable growth.
 
@@ -99,7 +100,7 @@ The contrast between high-rate laptops and high-volume accessories demonstrates 
 
   <img src="04_visual_assets/images/refund.png" width="800" >
 
-  # Business Recommendations
+# Business Recommendations
 
 - **Diversify revenue drivers by expanding mid-tier product offerings**  
   Reducing reliance on a small group of top-performing products can improve revenue resilience, margin stability, and long-term growth balance.
@@ -128,12 +129,10 @@ Actions included:
 - Correcting region values using country codes
 - Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
 
-***Full issue log and resolutions are documented in the repository.***
-  
+***Full issue logs, resolutions, and sanitized stakeholder request documentation are included in the repository to demonstrate traceability from business questions to analytical deliverables.***  
 
 
----
-## Tools & Methods
+# Tools & Methods
 
 - **SQL:** data cleaning, joins, aggregations, KPI analysis  
 - **Tableau:** executive dashboard design and visualization  
@@ -141,33 +140,6 @@ Actions included:
 - **Business Analysis:** revenue trends, AOV, loyalty impact, refund risk  
 
 
-
-# Data Structure
-
-Relational dataset composed of four core tables:
-
-- `orders` — transactional purchases  
-- `customers` — attributes and loyalty status  
-- `order_status` — fulfillment and refund lifecycle  
-- `geo_lookup` — country-to-region mapping  
-
-
-
-
-
-
-
-
-
----
-
-
- ---
- 
-
- 
- ---
- 
 
 # Repository Contents
 
@@ -184,8 +156,5 @@ Relational dataset composed of four core tables:
 * [noemile8240/ Pulse_Technology README.md — Project documentation](README.md)
 
 
-End-to-end **SQL and Tableau data analysis** evaluating revenue trends, customer behavior, product performance, refunds, and regional growth for a consumer electronics company navigating COVID-era demand shifts.
 
-**Revenue surged during the COVID period and stabilized at a higher long-term baseline, but rising volatility and declining late-2022 order volume signal emerging demand contraction without new growth drivers.**
 
-***Sanitized stakeholder request documentation is included to demonstrate traceability from business question to analytical deliverables.***
