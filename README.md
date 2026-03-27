@@ -97,7 +97,7 @@ Product & Sales Team
   
 Operations Team
 - Investigate regions with longer delivery times to identify fulfillment bottlenecks
-- Standardize shipping processes to improve consistency across regions  
+- Improve delivery processes to reduce delays and enhance customer experience
 
 Customer Experience Team
 - Analyze root causes of high refund rates and address product or expectation gaps
