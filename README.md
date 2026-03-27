@@ -99,22 +99,22 @@ The contrast between high-rate laptops and high-volume accessories demonstrates 
 
   <img src="04_visual_assets/images/refund.png" width="800" >
  
+# Assumptions & Caveats
+- Refund data includes dates outside the primary analysis period (2019–2022), which may impact trend interpretation
+- Data is assumed to be complete and representative of all transactions
+- Regional inconsistencies may reflect reporting delays or data quality limitations rather than true performance differences
 
+Data quality issues were reviewed prior to analysis. Only low-risk, clearly resolvable issues were corrected.<br>
+Actions included:
+- Standardizing inconsistent product names  
+- Normalizing date formats  
+- Replacing blank marketing channels with “Unknown”  
+- Correcting region values using country codes
+- Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
 
-# Business Objective
-
-Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:  
-- Revenue trends before, during, and after COVID  
-- Key growth drivers across products and regions  
-- Loyalty program performance and retention behavior  
-- Refund risk and customer value indicators  
-
-- Revenue trends before, during, and after COVID  
-- Key growth drivers across products and regions  
-- Loyalty program performance and retention behavior  
-- Refund risk and customer value indicators
+***Full issue log and resolutions are documented in the repository.***
   
-***Sanitized stakeholder request documentation is included to demonstrate traceability from business question to analytical deliverables.***
+
 
 ---
 ## Tools & Methods
@@ -124,15 +124,6 @@ Leadership requested a **data-driven performance review** to support preparation
 - **Data Modeling:** relational schema with ERD validation  
 - **Business Analysis:** revenue trends, AOV, loyalty impact, refund risk  
 
----
-
-# Executive Summary
-- Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
-- Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.
-- **Loyalty customers contribute more stable long-term revenue despite similar repeat rates**, reinforcing a retention-focused strategy over short-term AOV expansion.
- <img src="04_visual_assets/images/Executive_Summary_2.png" width="800">
-
----
 
 
 # Data Structure
@@ -147,25 +138,10 @@ Relational dataset composed of four core tables:
 
 
 
- <img src="04_visual_assets/images/ERD.png" width="800">
 
----
 
-# Data Cleaning & Assumptions
 
-Data quality issues were reviewed prior to analysis.  
-Only low-risk, clearly resolvable issues were corrected.
 
-**Actions included:**
-
-- Standardizing inconsistent product names  
-- Normalizing date formats  
-- Replacing blank marketing channels with “Unknown”  
-- Correcting region values using country codes  
-
-Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
-
-***Full issue log and resolutions are documented in the repository.***
 
 ---
 
@@ -209,3 +185,5 @@ Records lacking reliable source validation (e.g., zero prices, missing currency,
 End-to-end **SQL and Tableau data analysis** evaluating revenue trends, customer behavior, product performance, refunds, and regional growth for a consumer electronics company navigating COVID-era demand shifts.
 
 **Revenue surged during the COVID period and stabilized at a higher long-term baseline, but rising volatility and declining late-2022 order volume signal emerging demand contraction without new growth drivers.**
+
+***Sanitized stakeholder request documentation is included to demonstrate traceability from business question to analytical deliverables.***
