@@ -1,4 +1,5 @@
- <img src="04_visual_assets/images/Pulse_logo.png" width="650">
+ <img src="04_visual_assets/images/Pulse_Logo.png" width="650">
+ Pulse Technology – Sales & Customer Analytics (2019–2022)
  
 # Pulse Technology Background
 
@@ -6,12 +7,11 @@ Pulse Technology, founded in 2018, is a global consumer electronics company that
 
 This project analyzes sales, customer, and operational data to uncover key drivers of performance and identify opportunities to improve revenue, reduce refunds, and enhance the customer experience in a competitive market.
 
-Key Metrics: Total Sales, Orders, AOV, Refund Rate, Ship & Delivery Time
-
-Key Dimensions: Time, Geography, Product, Customer
+Key Metrics: Total Sales, Orders, AOV, Refund Rate, Ship & Delivery Time <br>
+Key Dimensions: Time, Geography, Product, Customer 
 
 # Executive Summary
-Pulse Technology – Sales & Customer Analytics (2019–2022)
+
 
 ## Key findings:
 
