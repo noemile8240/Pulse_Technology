@@ -29,14 +29,11 @@ An ERD illustrating table relationships is included below.
 
 # Insights Deep-Dive
 ### 1. Revenue Trends and Growth
-- **Pandemic-era demand created a structural revenue step-change**  
-Revenue surged sharply during 2020, peaking in Q4 2020, and later stabilized at a higher baseline than pre-COVID levels, indicating lasting revenue growth rather than a temporary spike.
+- **Pandemic-era demand created a structural revenue step-change.** Revenue surged sharply during 2020, peaking in Q4 2020, and later stabilized at a higher baseline than pre-COVID levels, indicating lasting revenue growth rather than a temporary spike.
 
-- **Growth momentum weakened through 2021–2022 despite elevated baseline**  
-Quarterly performance showed gradual deceleration through 2021–2022, signaling transition to stabilization-phase performance.
+- **Growth momentum weakened through 2021–2022 despite elevated baseline.** Quarterly performance showed gradual deceleration through 2021–2022, signaling transition to stabilization-phase performance.
 
-- **Rising volatility and late-2022 decline signal emerging contraction risk**  
-Order volume dropped sharply by Q4 2022 (~-47%), suggesting softening demand and potential downside risk without new growth drivers.
+- **Rising volatility and late-2022 decline signal emerging contraction risk.** Order volume dropped sharply by Q4 2022 (~-47%), suggesting softening demand and potential downside risk without new growth drivers.
 
 
  <img src="04_visual_assets/images/qrterlygrowth.png" width="650">
