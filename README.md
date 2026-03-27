@@ -26,78 +26,7 @@ An ERD illustrating table relationships is included below.
 
  <img src="04_visual_assets/images/ERD.png" width="650">
 
-
-
-
-# Business Objective
-
-Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:  
-- Revenue trends before, during, and after COVID  
-- Key growth drivers across products and regions  
-- Loyalty program performance and retention behavior  
-- Refund risk and customer value indicators  
-
-- Revenue trends before, during, and after COVID  
-- Key growth drivers across products and regions  
-- Loyalty program performance and retention behavior  
-- Refund risk and customer value indicators
-  
-***Sanitized stakeholder request documentation is included to demonstrate traceability from business question to analytical deliverables.***
-
----
-## Tools & Methods
-
-- **SQL:** data cleaning, joins, aggregations, KPI analysis  
-- **Tableau:** executive dashboard design and visualization  
-- **Data Modeling:** relational schema with ERD validation  
-- **Business Analysis:** revenue trends, AOV, loyalty impact, refund risk  
-
----
-
-# Executive Summary
-- Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
-- Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.
-- **Loyalty customers contribute more stable long-term revenue despite similar repeat rates**, reinforcing a retention-focused strategy over short-term AOV expansion.
- <img src="04_visual_assets/images/Executive_Summary_2.png" width="800">
-
----
-
-
-# Data Structure
-
-Relational dataset composed of four core tables:
-
-- `orders` — transactional purchases  
-- `customers` — attributes and loyalty status  
-- `order_status` — fulfillment and refund lifecycle  
-- `geo_lookup` — country-to-region mapping  
-
-
-
-
- <img src="04_visual_assets/images/ERD.png" width="800">
-
----
-
-# Data Cleaning & Assumptions
-
-Data quality issues were reviewed prior to analysis.  
-Only low-risk, clearly resolvable issues were corrected.
-
-**Actions included:**
-
-- Standardizing inconsistent product names  
-- Normalizing date formats  
-- Replacing blank marketing channels with “Unknown”  
-- Correcting region values using country codes  
-
-Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
-
-***Full issue log and resolutions are documented in the repository.***
-
----
-
-# Key Insights & Findings
+# Insights Deep-Dive
 ### 1. Revenue Trends and Growth
 - **Pandemic-era demand created a structural revenue step-change**  
 Revenue surged sharply during 2020, peaking in Q4 2020, and later stabilized at a higher baseline than pre-COVID levels, indicating lasting revenue growth rather than a temporary spike.
@@ -170,6 +99,77 @@ The contrast between high-rate laptops and high-volume accessories demonstrates 
 
   <img src="04_visual_assets/images/refund.png" width="800" >
  
+
+
+# Business Objective
+
+Leadership requested a **data-driven performance review** to support preparation for a 2023 company-wide town hall, focusing on:  
+- Revenue trends before, during, and after COVID  
+- Key growth drivers across products and regions  
+- Loyalty program performance and retention behavior  
+- Refund risk and customer value indicators  
+
+- Revenue trends before, during, and after COVID  
+- Key growth drivers across products and regions  
+- Loyalty program performance and retention behavior  
+- Refund risk and customer value indicators
+  
+***Sanitized stakeholder request documentation is included to demonstrate traceability from business question to analytical deliverables.***
+
+---
+## Tools & Methods
+
+- **SQL:** data cleaning, joins, aggregations, KPI analysis  
+- **Tableau:** executive dashboard design and visualization  
+- **Data Modeling:** relational schema with ERD validation  
+- **Business Analysis:** revenue trends, AOV, loyalty impact, refund risk  
+
+---
+
+# Executive Summary
+- Revenue surged during COVID (peaking Q4 2020) and stabilized at a **higher post-COVID baseline**, indicating durable demand rather than temporary lift.  
+- Revenue is concentrated in a **small number of top-performing products**, creating both growth leverage and concentration risk.
+- **Loyalty customers contribute more stable long-term revenue despite similar repeat rates**, reinforcing a retention-focused strategy over short-term AOV expansion.
+ <img src="04_visual_assets/images/Executive_Summary_2.png" width="800">
+
+---
+
+
+# Data Structure
+
+Relational dataset composed of four core tables:
+
+- `orders` — transactional purchases  
+- `customers` — attributes and loyalty status  
+- `order_status` — fulfillment and refund lifecycle  
+- `geo_lookup` — country-to-region mapping  
+
+
+
+
+ <img src="04_visual_assets/images/ERD.png" width="800">
+
+---
+
+# Data Cleaning & Assumptions
+
+Data quality issues were reviewed prior to analysis.  
+Only low-risk, clearly resolvable issues were corrected.
+
+**Actions included:**
+
+- Standardizing inconsistent product names  
+- Normalizing date formats  
+- Replacing blank marketing channels with “Unknown”  
+- Correcting region values using country codes  
+
+Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
+
+***Full issue log and resolutions are documented in the repository.***
+
+---
+
+
  ---
  
 # Business Recommendations
