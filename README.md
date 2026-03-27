@@ -1,7 +1,9 @@
  <img src="04_visual_assets/images/Pulse_Logo.png" width="650">
- Pulse Technology – Sales & Customer Analytics (2019–2022)
+
+# Pulse Technology – Sales & Customer Analytics (2019–2022)
+
  
-# Pulse Technology Background
+# Project Background
 
 Pulse Technology, founded in 2018, is a global consumer electronics company that sells high-tech products and accessories across multiple regions and sales channels. The business operates with a focus on driving revenue growth, improving customer retention, and optimizing operational efficiency.
 
