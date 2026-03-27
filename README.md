@@ -1,3 +1,5 @@
+ <img src="04_visual_assets/images/Pulse_logo.png" width="650">
+ 
 # Pulse Technology Background
 
 Pulse Technology, founded in 2018, is a global consumer electronics company that sells high-tech products and accessories across multiple regions and sales channels. The business operates with a focus on driving revenue growth, improving customer retention, and optimizing operational efficiency.
@@ -20,7 +22,8 @@ Delivery times varied across regions, impacting customer experience and operatio
 
 This analysis highlights opportunities to improve operational efficiency, reduce refunds, and better leverage customer segmentation to drive sustainable growth.
 
-Data Structure (ERD)
+An ERD illustrating table relationships is included below.
+
  <img src="04_visual_assets/images/ERD.png" width="650">
 
 
@@ -176,7 +179,7 @@ Relational dataset composed of four core tables:
 - `geo_lookup` — country-to-region mapping  
 
 
-An ERD illustrating table relationships is included below.
+
 
  <img src="04_visual_assets/images/ERD.png" width="800">
 
