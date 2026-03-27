@@ -65,14 +65,11 @@ An ERD illustrating table relationships is included below.
   
 ##  4. Key Regional Performance Insights
 
-- **North America remains the dominant and structurally resilient revenue driver**  
-North America contributes ~52% of total sales and leads monthly revenue across all periods, with the largest absolute surge during COVID and sustained post-pandemic scale, reinforcing its role as the company’s primary revenue engine.
+- **North America remains the dominant and structurally resilient revenue driver.** North America contributes ~52% of total sales and leads monthly revenue across all periods, with the largest absolute surge during COVID and sustained post-pandemic scale, reinforcing its role as the company’s primary revenue engine.
 
-- **APAC delivers the highest customer value despite lower overall revenue share**  
-APAC records the highest average order value (~$279) while contributing a smaller portion of total sales, indicating a high-value but lower-volume customer base with potential for scalable growth.
+- **APAC delivers the highest customer value despite lower overall revenue share.** APAC records the highest average order value (~$279) while contributing a smaller portion of total sales, indicating a high-value but lower-volume customer base with potential for scalable growth.
 
-- **EMEA provides stable secondary scale while LATAM represents early-stage expansion potential**  
-EMEA contributes ~29% of total sales with relatively consistent AOV trends, positioning it as the strongest secondary market, whereas LATAM’s 6% share and lowest AOV ($231) indicate a developing region with long-term growth opportunity.
+- **EMEA provides stable secondary scale while LATAM represents early-stage expansion potential.** EMEA contributes ~29% of total sales with relatively consistent AOV trends, positioning it as the strongest secondary market, whereas LATAM’s 6% share and lowest AOV ($231) indicate a developing region with long-term growth opportunity.
 
  <img src="04_visual_assets/images/Regional_Analysis.png" width="650">
  
