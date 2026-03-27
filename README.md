@@ -53,7 +53,7 @@ An ERD illustrating table relationships is included below.
 
 ##  3. Key Loyalty Program Insights
 
-- **Loyalty members contribute more stable long-term revenue despite a smaller customer base** Although representing a smaller share of total customers, the loyalty segment shows more gradual revenue decline following the COVID peak, indicating stronger retention stability and lifecycle value.
+- **Loyalty members show a steadier long-term revenue trend,** suggesting stronger retention stability over time.
 
 - **Repeat purchase behavior is comparable across loyalty and non-loyalty customers.** Customer share analysis shows similar repeat proportions between members and non-members, suggesting the program’s primary impact is revenue consistency and engagement stability, rather than materially higher repeat frequency.
 
@@ -83,8 +83,7 @@ ThinkPad and MacBook Air models show the highest refund rates (~11–12%), indic
 - **High-volume accessories drive refund counts but not refund severity** 
 Products such as AirPods and 27” monitors generate the largest number of refunds in absolute terms while maintaining moderate refund rates (~5–6%), reflecting scale rather than disproportionate risk.
 
-- **Refund exposure is driven by product category rather than sales volume alone**
-The contrast between high-rate laptops and high-volume accessories demonstrates that refund risk is primarily product-type dependent, highlighting the need for category-specific quality and return-prevention strategies.
+- Refund patterns vary by product category, with **premium laptops showing the highest refund rates and accessories driving the largest refund counts.**
 
   <img src="04_visual_assets/images/refund.png" width="800" >
 
