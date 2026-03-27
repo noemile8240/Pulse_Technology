@@ -19,9 +19,9 @@ Key Dimensions: Time, Geography, Product, Customer
 
 - Revenue is concentrated in top products, increasing dependency and business risk.
 - Refund rates are higher in certain regions, indicating operational or product-related issues.
-- Loyalty customers return more often, suggesting stronger retention and long-term value.
+- Loyalty customers return more often, indicating stronger retention and long-term value.
 - Delivery times vary significantly by region, impacting operational consistency and customer experience.
-- Revenue surged during COVID and stabilized at a higher baseline, but recent declines signal potential demand contraction.
+- RRevenue surged during COVID and stabilized at a higher baseline, but recent declines indicate emerging demand contraction.
 
 This analysis highlights opportunities to improve operational efficiency, reduce refunds, and better leverage customer segmentation to drive sustainable growth.
 
@@ -35,7 +35,7 @@ An ERD illustrating table relationships is included below.
 
 - **Growth momentum weakened through 2021–2022 despite elevated baseline.** Quarterly performance showed gradual deceleration through 2021–2022, signaling transition to stabilization-phase performance.
 
-- **Rising volatility and late-2022 decline signal emerging contraction risk.** Order volume dropped sharply by Q4 2022 (~-47%), suggesting softening demand and potential downside risk without new growth drivers.
+- **Rising volatility and late-2022 decline signal emerging contraction risk.** Order volume dropped sharply by Q4 2022 (~-47%), indicating softening demand and potential downside risk without new growth drivers.
 
 
  <img src="04_visual_assets/images/qrterlygrowth.png" width="650">
@@ -47,7 +47,7 @@ An ERD illustrating table relationships is included below.
 
 - **Product categories play distinct roles in volume versus value generation.** Accessories drive highest order volume, while laptops produce the highest average order value (AOV), showing a structural split between traffic drivers and revenue maximizers.
 
-- **Category mix highlights opportunity for mid-tier expansion.** Heavy reliance on premium and accessory extremes suggests potential to expand mid-tier offerings to balance volume, margin stability, and risk exposure.
+- **Category mix highlights opportunity for mid-tier expansion.** Heavy reliance on premium and accessory extremes indicate potential to expand mid-tier offerings to balance volume, margin stability, and risk exposure.
 
  <img src="04_visual_assets/images/Product_Performance_Analysis-2.png" width="800">
  
@@ -55,9 +55,9 @@ An ERD illustrating table relationships is included below.
 
 ##  3. Key Loyalty Program Insights
 
-- **Loyalty members show a steadier long-term revenue trend,** suggesting stronger retention stability over time.
+- **Loyalty members show a steadier long-term revenue trend,** indicating stronger retention stability over time.
 
-- **Repeat purchase behavior is comparable across loyalty and non-loyalty customers.** Customer share analysis shows similar repeat proportions between members and non-members, suggesting the program’s primary impact is revenue consistency and engagement stability, rather than materially higher repeat frequency.
+- **Repeat purchase behavior is comparable across loyalty and non-loyalty customers.** Customer share analysis shows similar repeat proportions between members and non-members, indicating the program’s primary impact is revenue consistency and engagement stability, rather than materially higher repeat frequency.
 
 - **Converging AOV trends reinforce retention—not basket size—as the core loyalty driver.** The average order value gap narrows over time as non-member AOV declines post-COVID, indicating loyalty value is driven by sustained engagement and revenue resilience, not increased per-order spend.
 
