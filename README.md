@@ -89,22 +89,25 @@ Products such as AirPods and 27” monitors generate the largest number of refun
 
   <img src="04_visual_assets/images/refund.png" width="800" >
 
-# Business Recommendations
+# Recommendations
 
-- **Diversify revenue drivers by expanding mid-tier product offerings**  
-  Reducing reliance on a small group of top-performing products can improve revenue resilience, margin stability, and long-term growth balance.
-- **Introduce targeted product bundling to bridge volume and value dynamics** 
-  Pairing high-volume accessories with premium products through bundled offers or incentive pricing can increase average order value, cross-category attachment, and overall revenue efficiency.
+Product & Sales Team
+- Expand high-performing product lines to reduce reliance on a small subset of revenue drivers
+- Reevaluate underperforming products to improve portfolio efficiency
+  
+Operations Team
+- Investigate regions with longer delivery times to identify fulfillment bottlenecks
+- Standardize shipping processes to improve consistency across regions  
 
-- **Continue investing in the loyalty program with a retention-first strategy**  
-  Prioritize customer lifecycle value and revenue stability rather than short-term AOV expansion to strengthen sustainable performance.
+Customer Experience Team
+- Analyze root causes of high refund rates and address product or expectation gaps
+- Improve product descriptions and communication to reduce returns  
 
-- **Reduce high-value refund exposure in premium product categories**  
-  Focus on quality control, return-prevention initiatives, and post-purchase support for premium laptops where per-order refund risk is highest.
+Marketing Team
+- Leverage loyalty program insights to strengthen retention strategies
+- Optimize acquisition channels based on customer quality and repeat behavior  
 
-- **Balance core-market growth in North America with international expansion**  
-  Strengthening product depth, promotions, and engagement in North America can drive near-term revenue gains given its ~52% share, while continued investment in EMEA and APAC reduces concentration risk and enables scalable long-term growth.
- 
+
 # Assumptions & Caveats
 - Refund data includes dates outside the primary analysis period (2019–2022), which may impact trend interpretation
 - Data is assumed to be complete and representative of all transactions
