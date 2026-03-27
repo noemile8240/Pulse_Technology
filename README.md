@@ -17,10 +17,10 @@ Key Dimensions: Time, Geography, Product, Customer
 
 ## Key findings:
 
-- Revenue is concentrated in top products, increasing reliance on a small subset of drivers.
-- Refund rates are higher in certain regions, indicating potential operational or product issues.
-- Loyalty customers return more often, suggesting stronger retention behavior.
-- Delivery times vary significantly by region, indicating inconsistent operational performance.
+- Revenue is concentrated in top products, increasing dependency and business risk.
+- Refund rates are higher in certain regions, indicating operational or product-related issues.
+- Loyalty customers return more often, suggesting stronger retention and long-term value.
+- Delivery times vary significantly by region, impacting operational consistency and customer experience.
 - Revenue surged during COVID and stabilized at a higher baseline, but recent declines signal potential demand contraction.
 
 This analysis highlights opportunities to improve operational efficiency, reduce refunds, and better leverage customer segmentation to drive sustainable growth.
