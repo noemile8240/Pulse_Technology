@@ -38,7 +38,7 @@ Quarterly performance showed gradual deceleration through 2021–2022, signaling
 Order volume dropped sharply by Q4 2022 (~-47%), suggesting softening demand and potential downside risk without new growth drivers.
 
 
- <img src="04_visual_assets/images/qrterlygrowth.png" width="800">
+ <img src="04_visual_assets/images/qrterlygrowth.png" width="650">
 
 ---
 
@@ -67,7 +67,7 @@ Customer share analysis shows similar repeat proportions between members and non
 - **Converging AOV trends reinforce retention—not basket size—as the core loyalty driver**  
 The average order value gap narrows over time as non-member AOV declines post-COVID, indicating loyalty value is driven by sustained engagement and revenue resilience, not increased per-order spend.
 
- <img src="04_visual_assets/images/Loyalty_Analysis.png" width="800">
+ <img src="04_visual_assets/images/Loyalty_Analysis.png" width="650">
  
  ---
   
@@ -82,7 +82,7 @@ APAC records the highest average order value (~$279) while contributing a smalle
 - **EMEA provides stable secondary scale while LATAM represents early-stage expansion potential**  
 EMEA contributes ~29% of total sales with relatively consistent AOV trends, positioning it as the strongest secondary market, whereas LATAM’s 6% share and lowest AOV ($231) indicate a developing region with long-term growth opportunity.
 
- <img src="04_visual_assets/images/Regional_Analysis.png" width="800">
+ <img src="04_visual_assets/images/Regional_Analysis.png" width="650">
  
  ---
  
