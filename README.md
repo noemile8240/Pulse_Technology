@@ -17,11 +17,11 @@ Key Dimensions: Time, Geography, Product, Customer
 
 ## Key findings:
 
-- Revenue growth was driven primarily by a small subset of high-performing products.
-- Refund rates increased disproportionately in certain regions, indicating potential operational or product issues.
-- Loyalty program customers demonstrated stronger retention but did not significantly increase average order value.
-- Delivery times varied across regions, impacting customer experience and operational consistency.
-- Revenue surged during the COVID period and stabilized at a higher long-term baseline, but rising volatility and declining late-2022 order volume signal emerging demand contraction without new growth drivers.
+- Revenue is concentrated in top products, increasing reliance on a small subset of drivers.
+- Refund rates are higher in certain regions, indicating potential operational or product issues.
+- Loyalty customers return more often, suggesting stronger retention behavior.
+- Delivery times vary significantly by region, indicating inconsistent operational performance.
+- Revenue surged during COVID and stabilized at a higher baseline, but recent declines signal potential demand contraction.
 
 This analysis highlights opportunities to improve operational efficiency, reduce refunds, and better leverage customer segmentation to drive sustainable growth.
 
@@ -107,6 +107,11 @@ Marketing Team
 - Leverage loyalty program insights to strengthen retention strategies
 - Optimize acquisition channels based on customer quality and repeat behavior  
 
+## Key Takeaways
+
+- Revenue concentration increases dependency on top-performing products  
+- Operational inefficiencies are impacting customer experience and refunds  
+- Customer segmentation presents an opportunity for improved retention and monetization  
 
 # Assumptions & Caveats
 - Refund data includes dates outside the primary analysis period (2019–2022), which may impact trend interpretation
